@@ -1,7 +1,7 @@
 # SWV Schools :books:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-1C1C1C?style=flat&logo=Typescript&logoColor=blue">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=Javascript&logoColor=yellow">
   <img src="https://img.shields.io/badge/-React-1C1C1C?style=flat&logo=React&logoColor=blue">
   <a href="https://www.linkedin.com/in/yuri-flores-53b2b41a4" >
    <img src="https://img.shields.io/badge/-YuriFlores-blue?style=flat&logo=Linkedin&logoColor=white">
