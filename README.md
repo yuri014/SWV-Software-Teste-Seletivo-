@@ -1,3 +1,35 @@
+# SWV Schools :books:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-1C1C1C?style=flat&logo=Typescript&logoColor=blue">
+  <img src="https://img.shields.io/badge/-React-1C1C1C?style=flat&logo=React&logoColor=blue">
+  <a href="https://www.linkedin.com/in/yuri-flores-53b2b41a4" >
+   <img src="https://img.shields.io/badge/-YuriFlores-blue?style=flat&logo=Linkedin&logoColor=white">
+  </a>
+    <a href="https://swvsoftware.com/" >
+   <img src="https://img.shields.io/badge/-SWVSoftware-green?style=flat">
+  </a>
+</p>
+
+Aplicação feita para o teste do processo seletivo da Empresa SWV Software :office:
+
+## Screenshots :camera:
+
+<p align="center">
+    <img src="./src/images/home.PNG" height="150" >
+    <img src="./src/images/alunos.PNG" height="150" >
+    <img src="./src/images/turmas.PNG" height="150" >
+    <img src="./src/images/lista_alunos.PNG" height="150" >
+    <img src="./src/images/lista_turma.PNG" height="150" >
+    <img src="./src/images/cadastro_realizado.PNG" height="150" >
+</p>
+
+## Como funciona :computer:
+
+A aplicação permite que, com pouco esforço, você possa cadastrar e pesquisar alunos e turmas para sua escola.
+
+## Project
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

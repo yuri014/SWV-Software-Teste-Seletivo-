@@ -1,0 +1,11 @@
+.card-block {
+    width: 32.8rem;
+    height: 20rem;
+}
+
+.form-button {
+    position: absolute;
+    right: 0;
+    bottom: 0.6rem;
+    margin: 1.4rem;
+}
